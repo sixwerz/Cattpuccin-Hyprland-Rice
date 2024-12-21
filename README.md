@@ -1,4 +1,4 @@
-🖤 Cattpuccin Hyprland Rice 🖤
+🖤 Catppuccin Hyprland Rice 🖤
 
 ## You must download:
 ```
